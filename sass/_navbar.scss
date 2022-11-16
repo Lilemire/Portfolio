@@ -1,0 +1,18 @@
+@use "variables";
+
+h1 {
+    font-family: 'Kaushan Script', cursive;
+    color: variables.$color-3;
+}
+
+.navbar__background {
+    background-color: variables.$color-1;
+}
+
+.offcanvas {
+    background-color: variables.$color-3;
+
+    .navbar--slider{
+        color: variables.$color-1;
+    }
+}

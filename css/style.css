@@ -1,4 +1,21 @@
-body {
+h1 {
+  font-family: "Kaushan Script", cursive;
+  color: #717171;
+}
+
+.navbar__background {
   background-color: #F8F9FA;
+}
+
+.offcanvas {
+  background-color: #717171;
+}
+.offcanvas .navbar--slider {
+  color: #F8F9FA;
+}
+
+body {
+  background-color: #141414;
+  font-family: "Roboto", sans-serif;
 }
 /*# sourceMappingURL=style.css.map */

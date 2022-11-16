@@ -1,5 +1,7 @@
 @use "variables";
+@use "navbar";
 
 body {
-    background-color: variables.$color-1;
+    background-color: variables.$color-4;
+    font-family: 'Roboto', sans-serif;
 }
