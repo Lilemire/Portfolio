@@ -1,5 +1,7 @@
 @use "variables";
 @use "navbar";
+@use "footer";
+@use "index";
 
 body {
     background-color: variables.$color-4;

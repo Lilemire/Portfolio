@@ -1,3 +1,7 @@
+header {
+  margin-bottom: 100px;
+}
+
 h1 {
   font-family: "Kaushan Script", cursive;
   color: #717171;
@@ -12,6 +16,40 @@ h1 {
 }
 .offcanvas .navbar--slider {
   color: #F8F9FA;
+}
+
+footer {
+  background-color: #F8F9FA;
+  padding-top: 15px;
+  padding-bottom: 1px;
+  margin-top: 30px;
+}
+
+section {
+  background-color: #F8F9FA;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+h2 {
+  color: #49007A;
+}
+
+.h2--interets {
+  margin-top: 30px;
+}
+
+.section--space {
+  margin-top: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: #141414;
+}
+a:hover {
+  text-decoration: underline;
+  color: #49007A;
 }
 
 body {

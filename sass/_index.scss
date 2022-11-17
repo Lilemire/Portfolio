@@ -1,0 +1,29 @@
+@use "variables";
+
+section {
+    background-color: variables.$color-1;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: variables.$color-5;
+}
+
+.h2--interets{
+    margin-top: 30px;
+}
+
+.section--space {
+    margin-top: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: variables.$color-4;
+
+    &:hover{
+        text-decoration: underline;
+        color: variables.$color-5;
+    }
+}
